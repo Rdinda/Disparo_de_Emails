@@ -1,0 +1,8 @@
+flet==0.24.1
+pandas==2.1.4
+openpyxl==3.1.2
+selenium==4.16.0
+requests==2.31.0
+pyautogui==0.9.54
+opencv-python==4.9.0.80
+Pillow==10.2.0
