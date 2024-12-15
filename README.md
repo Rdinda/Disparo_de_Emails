@@ -5,7 +5,7 @@ Sistema de automação para envio de mensagens via Email e WhatsApp.
 ## Desenvolvedor
 
 - **Roberto Dinda**
-- GitHub: [robertodinda](https://github.com/robertodinda)
+- GitHub: [robertodinda](https://github.com/rdinda)
 
 ## Licença
 
